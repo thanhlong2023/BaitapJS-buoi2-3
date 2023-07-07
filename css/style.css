@@ -1,0 +1,14 @@
+body {
+    background-image: url(../img/mountains.jpg);
+    background-size: cover;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+ul {
+    element.style {
+        background: linear-gradient(45deg, #c7afaf, transparent);
+    }
+}
